@@ -1,7 +1,7 @@
 var flag=1;
 var right=1;
 var left=0;
-var texts = ["Not Now!","Not Yet!","Try Again!","You Noob!","Keep trying!"];
+var texts = ["Not now!","Not yet!","Try again!","Not so soon!","You noob!","Abhee nahin!","Keep trying!"];
 
 
 function myFunction(){
